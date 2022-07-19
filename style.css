@@ -232,7 +232,8 @@ h6 {
   margin: 0 auto;
   border-top: 3px solid #e66465;
   background-color: yellow;
-  display: block;
+  box-shadow: 0 3px 2px black;
+  display: none;
 }
 
 .toogle_menu:checked ~ .navbar1 {
